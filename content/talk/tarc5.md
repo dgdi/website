@@ -10,7 +10,7 @@ math = false
 selected = false
 title = "Tax avoidance on a social network"
 url_pdf = ""
-url_slides = "https://dgdi.github.io/data/tarc5/tarc5.pdf"
+url_slides = "data/tarc5/tarc5.pdf"
 url_video = ""
 
 [[url_custom]]

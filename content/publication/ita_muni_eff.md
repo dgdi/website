@@ -7,9 +7,11 @@ highlight = true
 image_preview = "publication/ita_mun_eff/imf.png"
 math = false
 publication = ""
-publication_short = ""
 publication_types = ["3"]
 selected = false
 title = "Italian municipalities efﬁciency: A conditional frontier model approach"
+[[url_custom]]
+name = "Interactive Map (full window)"
+url = "/data/map.html"
 +++
-<iframe style="width: 100%; height: 900px; border: none;" src="https://dgdi.github.io/data/map"></iframe>
+<iframe style="width: 100%; height: 900px; border: none;" src="/data/map.html"></iframe>
