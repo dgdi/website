@@ -12,4 +12,4 @@ publication_types = ["3"]
 selected = false
 title = "Italian municipalities efﬁciency: A conditional frontier model approach"
 +++
-<iframe style="width: 100%; height: 900px; border: none;" src="https://dgdi.github.io/data/map.html"></iframe>
+<iframe style="width: 100%; height: 900px; border: none;" src="https://dgdi.github.io/data/map"></iframe>
