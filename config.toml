@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   role = "PhD in Economics"
   organization = "IMT - School for advanced Studies"
   organization_url = "https://www.imtlucca.it/"
-  avatar = "picture.png"
+  avatar = "picture.jpg"
   email = "mail@dgdi.it"
   address = "Venice / Florence - Italy"
 
@@ -125,7 +125,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file-text-o"
     icon_pack = "fa"
-    link = "https://www.imtlucca.it/duccio.gamannossi/files/cv.pdf"
+    link = "/data/cv.pdf"
 
   [[params.social]]
     icon = "researchgate"
