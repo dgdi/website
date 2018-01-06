@@ -19,7 +19,7 @@ weight = 60
 ---
 <br>
 
-The TARC Brown Bag Seminars series is held fortnightly at the University of Exeter to provide scholars and practitioners an occasion to meet with the frontier of research on tax related themes. To join the mailing list and receive all the information on upcoming seminars just send me a mail.
+The TARC Brown Bag Seminars series is held fortnightly at the University of Exeter to provide scholars and practitioners an occasion to meet with the frontier of research on tax related themes. To join the mailing list and receive all the information on the upcoming seminars just send me a mail.
 
 ### Upcoming Seminar 
 
