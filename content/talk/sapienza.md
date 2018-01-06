@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-date = "2016-10-17"
+time_start = 2016-10-17T14:00:00
 event = "Seminar for the Course: Productivity and Efficiency Analysis"
 event_url =""
 highlight = false

@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-date = "2015-12-11"
+time_start = 2015-12-11T16:00:00
 event = "Workshop for the Routledge Companion on Tax Avoidance Research"
 event_url = "https://tarc.exeter.ac.uk/events/researchworkshops/4thannualworkshop/"
 highlight = false

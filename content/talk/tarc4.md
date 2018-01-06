@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-date = "2016-04-21"
+time_start = 2016-04-21T14:15:00
 event = "TARC 4th Annual Workshop"
 event_url = "https://tarc.exeter.ac.uk/events/researchworkshops/4thannualworkshop/"
 highlight = false
