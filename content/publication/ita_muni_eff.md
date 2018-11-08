@@ -2,14 +2,18 @@
 abstract = "In most developed countries local governments are responsible for a relevant share of the public services. However, the assessment of local government efficiency is a complex task that must account for the heterogeneity of local conditions. Hence, the estimation of  relative efficiencies must factor in for the impact of contextual and exogenous variables on the production process. In this paper, we develop a composite local government output indicator with an unprecedented coverage of the productive activities performed by the major Italian municipalities. Using the output indicator along with balance sheet data of the expenses as an input, we apply conditional frontier models to provide an assessment of municipalities efficiency scores. In the first stage, we evaluate the degree of improvements attainable by any municipality with respect to the relevant \"best-practice\" frontier. In the second stage, we investigate the role of non-discretionary inputs on performance."
 abstract_short = "The article provides an assessment of the performances of Italian local government using conditional frontier models."
 authors = ["D. Gamannossi degl'Innocenti", "A. Flori"]
-date = "2015-10-15"
+date = "2016-10-15"
 highlight = true
 image_preview = "publication/ita_mun_eff/imf.png"
 math = false
-publication = ""
+publication = "Working Paper"
+publication_short = "Working Paper"
 publication_types = ["3"]
 selected = false
-title = "Italian municipalities efﬁciency: A conditional frontier model approach"
+title = "Italian municipalities efficiency: A conditional frontier model approach"
+[[url_custom]]
+name = "Working Paper (shortend version as in the published PhD thesis)"
+url = "/data/publications/colombaria_04_2018/Essays_on_tax_collection_and_local_government_efficiency.pdf"
 [[url_custom]]
 name = "Interactive Map (full window)"
 url = "/data/map.html"

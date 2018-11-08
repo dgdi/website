@@ -8,13 +8,13 @@ highlight = false
 location = "University of Exeter, Exeter, UK"
 math = false
 selected = false
-title = "Tax avoidance on a social network"
+title = "Tax Avoidance on a Social Network"
 url_pdf = ""
-url_slides = "data/tarc5/tarc5.pdf"
+url_slides = "data/talks/tarc5/tarc5.pdf"
 url_video = ""
 
 [[url_custom]]
-name = "Programme"
+name = "Program"
 url = "https://tarc.exeter.ac.uk/media/universityofexeter/businessschool/documents/centres/tarc/events/5thannualworkshop/5th_Programme.docx"
 
 

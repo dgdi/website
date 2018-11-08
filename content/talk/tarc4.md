@@ -14,7 +14,7 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "Programme"
+name = "Program"
 url = "http://business-school.exeter.ac.uk/media/universityofexeter/businessschool/documents/centres/tarc/events/workshops/Programme.pdf"
 
 +++
