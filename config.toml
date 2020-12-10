@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -51,12 +51,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Exeter", url = "http://www.exeter.ac.uk/" } ]
-  role = "Postdoctoral Research Associate"
+  organizations = [ { name = "Catholic University of the Sacred Hearth", url = "https://milano.unicatt.it/economia?rdeLocaleAttr=en" } ]
+  role = "Postdoctoral Research Fellow"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "picture.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail@dgdi.me"
-  address = "Exeter, UK / Venice, Italy"
+  address = "Milan/Venice, Italy"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -96,9 +96,9 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2 Jan 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04 PM"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -281,15 +281,15 @@ defaultContentLanguageInSubdir = false
   
 
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
-
 [[menu.main]]
-  name = "TARC BBS"
-  url = "#tarc_bbs"
+  name = "Teaching"
+  url = "#teaching"
   weight = 4
+
+#[[menu.main]]
+#  name = "TARC BBS"
+#  url = "#tarc_bbs"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
