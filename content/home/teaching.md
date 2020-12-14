@@ -23,13 +23,13 @@ weight = 60
 
 # Teaching
 ---
-
 **Office Hours:** Compile this [**form**](https://forms.gle/viXahVnkuadShUj86) to book an appointment<br>
 
 
 <br>
 **Public Finance A.Y. 2019-2020**
  <br><small> Catholic University of the Sacred Heart  </small><br>
+Information about the course can be found in my [**page**](https://docenti.unicatt.it/ppd2/en/docenti/75372/duccio-gamannossi-deglinnocenti) on the University website <br>
 [Syllabus](/data/teaching/pf_dgdi_ucsc_2019_2020.pdf)   <br>
 [Repository of Notebooks](https://github.com/dgdi/public_finance_2019_2020) <br>
 
@@ -37,6 +37,7 @@ weight = 60
 
 **Public Finance A.Y. 2018-2019** <br>
 <small> Catholic University of the Sacred Heart </small><br>
+Information about the course can be found in my [**page**](https://docenti.unicatt.it/ppd2/en/docenti/75372/duccio-gamannossi-deglinnocenti) on the University website <br>
 [Syllabus](https://www.unicatt.it/upl/proguc/MI/2019/ITA/ECO/Public_finance_Gamannossi.docx) <br>
 [Repository of Notebooks](https://github.com/dgdi/public_finance_2018_2019) <br>
 

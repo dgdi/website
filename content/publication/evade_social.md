@@ -1,6 +1,6 @@
 +++
 title = "Tax Evasion on a Social Network"
-date = 2018-10-10T17:32:00+01:00
+date = 2020-01-10T17:32:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["D. Gamannossi degl'Innocenti", "M. D. Rablen"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
-publication_short = "Working Paper"
+publication = "Journal of Economic Behavior & Organization"
+publication_short = "Journal of Economic Behavior & Organization"
 
 # Abstract and optional shortened version.
 abstract = "We relate tax evasion behavior to a substantial literature on self and social comparison in judgements. Taxpayers engage in tax evasion as a means to boost their expected consumption relative to others in their \"local\" social network, and relative to past consumption. The unique Nash equilibrium of the model relates optimal evasion to a (Bonacich) measure of network centrality: more central taxpayers evade more. The indirect revenue effects from auditing are shown to be ordinally equivalent to a related Bonacich centrality. We generate networks corresponding closely to the observed structure of social networks observed empirically. In particular, our networks contain celebrity taxpayers, whose consumption is widely observed, and who are systematically of higher wealth. In this context we show that, if the tax authority can observe the social network, it is able to raise its audit revenue by around six percent."
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0167268119303440?via%3Dihub"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "TARC Discussion Papers", url = "http://tarc.exeter.ac.uk/media/universityofexeter/businessschool/documents/centres/tarc/publications/discussionpapers/TARC_022-18_Tax_Evasion_on_a_Social_Network_Gamannossi_Rablen.pdf"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = false

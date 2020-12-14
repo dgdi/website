@@ -18,8 +18,8 @@ authors = ["M. Bordignon, M. Buso, R. Caruso, D. Gamannossi Degl'Innocenti, L. G
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Study for the European Parliament Think Tank"
-publication_short = "Study for the European Parliament Think Tank"
+publication = "Study for the European Parliament"
+publication_short = "Study for the European Parliament"
 
 # Abstract and optional shortened version.
 abstract = "This EPRS study looks at whether, and under what conditions, greater effectiveness could be achieved in overall public spending at all levels of the European Union through greater pooling of resources at European level. It suggests that added value can be realised in public spending, through efficiency gains and lower administrative costs, delivered by and through the EU budget, usually with corresponding savings to national budgets. The study provides a methodology for assessing the 'waste rate' in overlapping national spending and analyses four policy areas, with the potential to realise gains of around 180 billion euros."
